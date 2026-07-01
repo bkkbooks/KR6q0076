@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0076/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 袁州仰山慧寂禪師語錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1990.xml
+    old_id: T47n1990
+hash: sha256:88a76c2728bb8b448d324f81d326e64dc3c24f1b2e5282e67817f472605d62fd
