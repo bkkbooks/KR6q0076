@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0076_000.yaml, hash: 'sha256:88a76c2728bb8b448d324f81d326e64dc3c24f1b2e5282e67817f472605d62fd'}
-  - {seq: 1, filename: KR6q0076_001.yaml, hash: 'sha256:227aaed3b33de45829cf15825a8a65ffdd662d04df80f3d634f436aa160d23ee'}
+  - {seq: 1, filename: KR6q0076_001.yaml, hash: 'sha256:d5e292dc9d0e64c4bbac7fddba9390f4b6a63e2bd537ef74c0ba839407970eb6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0076_001.markers.yaml, hash: 'sha256:9522d724a6e912cacf6d184d49667cc4042921934725081236009bf43316d783'}
+  - {seq: 0, role: markers, filename: assets/KR6q0076_000.markers.yaml, hash: 'sha256:5fdad1d12f89503679fef4edbf4a6eeebcd4e300e586754ce02882d4542ca467'}
+  - {seq: 1, role: markers, filename: assets/KR6q0076_001.markers.yaml, hash: 'sha256:3e76f5c451406fd6d5cdf9d7f86db79a7e1b82f7cc396c40cb64ef3357042d34'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 袁州仰山慧寂禪師語錄
   type: juan
   level: 1
-hash: sha256:d1554e38840b3752a17630437e2f309d7b309cf42687fa81381a5b0e9e565809
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:360da99d3097d26a757e26131c054501a3827c60547d10600468af4311e7c52a
