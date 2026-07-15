@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0076/v1
 canonical_location: https://kanripo.org/bkk/KR6q0076/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 袁州仰山慧寂禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0076_000.yaml, hash: 'sha256:88a76c2728bb8b448d324f81d326e64dc3c24f1b2e5282e67817f472605d62fd'}
-  - {seq: 1, filename: KR6q0076_001.yaml, hash: 'sha256:d5e292dc9d0e64c4bbac7fddba9390f4b6a63e2bd537ef74c0ba839407970eb6'}
+  - {seq: 1, filename: KR6q0076_001.yaml, hash: 'sha256:df72bed4dc07e4375f95b0d7d878ab52469918da6a17261683113026b86ecada'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0076_000.markers.yaml, hash: 'sha256:5fdad1d12f89503679fef4edbf4a6eeebcd4e300e586754ce02882d4542ca467'}
-  - {seq: 1, role: markers, filename: assets/KR6q0076_001.markers.yaml, hash: 'sha256:3e76f5c451406fd6d5cdf9d7f86db79a7e1b82f7cc396c40cb64ef3357042d34'}
+  - {seq: 1, role: markers, filename: assets/KR6q0076_001.markers.yaml, hash: 'sha256:644a560acfb405b436b060aa60c333f823cc6552d805bf43e6fe780d581dd53d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 袁州仰山慧寂禪師語錄
   type: juan
   level: 1
-hash: sha256:360da99d3097d26a757e26131c054501a3827c60547d10600468af4311e7c52a
+hash: sha256:f6fb23e5d60e2ba03c3351fc45946cf3936cc0c21f20915879ada3252dcbd17e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
